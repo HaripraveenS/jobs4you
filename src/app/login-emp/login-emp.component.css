@@ -9,7 +9,13 @@ html {
     font-family: "Poppins", sans-serif;
     height: 100vh;
   }
-  
+  .selfdef{
+    height: 200px;
+    overflow: hidden;
+  }
+  .marginer{
+    margin-top: 15px;
+  }
   a {
     color: #696969;
     display:inline-block;
